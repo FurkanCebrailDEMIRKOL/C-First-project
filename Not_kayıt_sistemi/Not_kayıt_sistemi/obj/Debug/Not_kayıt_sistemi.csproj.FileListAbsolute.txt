@@ -1,0 +1,13 @@
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\bin\Debug\Not_kayıt_sistemi.exe.config
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\bin\Debug\Not_kayıt_sistemi.exe
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\bin\Debug\Not_kayıt_sistemi.pdb
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\obj\Debug\Not_kayıt_sistemi.csproj.AssemblyReference.cache
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\obj\Debug\Not_kayıt_sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\obj\Debug\Not_kayıt_sistemi.FrmGiriş.resources
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\obj\Debug\Not_kayıt_sistemi.FrmÖğrenciDetay.resources
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\obj\Debug\Not_kayıt_sistemi.Properties.Resources.resources
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\obj\Debug\Not_kayıt_sistemi.csproj.GenerateResource.cache
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\obj\Debug\Not_kayıt_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\obj\Debug\Not_kayıt_sistemi.exe
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\obj\Debug\Not_kayıt_sistemi.pdb
+C:\Users\DEMİRKOL\Desktop\visual studio projeler\Not_kayıt_sistemi\Not_kayıt_sistemi\obj\Debug\Not_kayıt_sistemi.FrmÖğretmenDetay.resources
